@@ -1,7 +1,3 @@
 Text added from git web
-<<<<<<< HEAD
-
-this if from remote system 
-=======
 2nd line added from web
->>>>>>> 342141c0478f12bf262c69269af13d8d9bafeb94
+
